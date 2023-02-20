@@ -22,8 +22,21 @@ Concerning the back-end, I used some technologies such as:
 - MySQL
 - PostgreSQL
 
+# :gear: Projects
+### University Projects
+- [BiometricBites - Face recognition system for cafeteria access](https://github.com/AlessioLucciola/BiometricBites) (Typescript, ReactJS, SCSS, Python, Django, MySQL, Face Recognition)
+- [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/AlessioLucciola/autonomous-networking) (Python, Reinforcement Learning)
+- [Stroke Prediction Model with Machine Learning](https://github.com/AlessioLucciola/fundamentals-of-data-science) (Python, Machine Learning)
+- [MiniBabelNet](https://github.com/AlessioLucciola/babelarity-project) a simplified version of [BabelNet](https://babelnet.org/), a multilingual linguistic resource that aggregates lexicographic and encyclopedic information from heterogeneous resources in different languages into a single semantic network (Java)
+- [QuizArt](https://github.com/AlessioLucciola/QuizArt-app-per-beni-culturali) - design of an Android application from scratch (Marvel App)
+### Side Projects
+- [Lucciola Legnami](https://github.com/AlessioLucciola/lucciolalegnami-project) - Website of a lumber store (Javascript, ReactJS, SCSS, Bootstrap, PHP, MySQL)
+- [Porfolio](https://github.com/AlessioLucciola/portfolio-project) (Javascript, ReactJS, SCSS)
+### Others
+- [GeneroCity](https://www.generocity.it/) - a smart parking application developed by the Gamification Lab of the Università degli Studi di Roma “La Sapienza” Computer Science department where I mainly worked on the development of new APIs (Golang, PostgreSQL)
+
 # :handshake: Contact
-Please, use the form <href>[in this page](https://alessioluc.netlify.app/#contact)</href> to send me a message.
+Please, use the form <href>[on this page](https://alessioluc.netlify.app/#contact)</href> to send me a message.
 
 Otherwise, you can contact me on <href>[Telegram](https://t.me/alessiolucciola)</href>.
 
