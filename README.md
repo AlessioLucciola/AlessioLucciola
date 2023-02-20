@@ -7,7 +7,7 @@ I'm particularly interested in developing <strong>Web Applications</strong> even
 # :muscle: Skills
 Some languages I worked with are:
 - Python
-- Golang
+- Go (Golang)
 - Java
 - Javascript / Typescript
 - PHP
