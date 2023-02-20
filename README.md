@@ -11,9 +11,9 @@ Some languages I worked with are:
 - Java
 - Javascript / Typescript
 - PHP
-- HTML/CSS
+- HTML / CSS
 
-When developing Web Applications, I usually make use of:
+When developing Web Applications, I often make use of:
 - ReactJS
 - Bootstrap
 
