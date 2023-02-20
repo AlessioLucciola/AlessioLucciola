@@ -33,7 +33,7 @@ Concerning the back-end, I used some technologies such as:
 - [Lucciola Legnami](https://github.com/AlessioLucciola/lucciolalegnami-project) - Website of a lumber store (Javascript, ReactJS, SCSS, Bootstrap, PHP, MySQL)
 - [Portfolio](https://github.com/AlessioLucciola/portfolio-project) (Javascript, ReactJS, SCSS)
 ### Others
-- [GeneroCity](https://www.generocity.it/) - a smart parking application developed by the Gamification Lab of the Università degli Studi di Roma “La Sapienza” Computer Science department where I mainly worked on the development of new APIs (Golang, PostgreSQL)
+- [GeneroCity](https://www.generocity.it/) - a smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of new APIs (Golang, PostgreSQL)
 
 # :handshake: Contact
 Please, use the form <href>[on this page](https://alessioluc.netlify.app/#contact)</href> to send me a message.
