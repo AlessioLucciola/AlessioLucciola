@@ -2,7 +2,7 @@
 
 I'm <strong>Alessio Lucciola</strong>, a 24-year-old <strong>Software Engineer</strong> from Italy.
 From an early age I’ve always been deeply interested in computing, in fact I've got a <strong>Computer Science Bachelor's Degree</strong> in March 2022 and I'm currently getting a <strong>Master's Degree in Sapienza - University Of Rome</strong>.
-I'm particularly interested in developing Web Applications even though I'm always experimenting with new technologies and tools in order to come out with cool projects (especially if they concern AI).
+I'm particularly interested in developing <strong>Web Applications</strong> even though I'm always experimenting with new technologies and tools in order to come out with cool projects (especially if they concern <strong>AI</strong>).
 
 # :muscle: Skills
 Some languages I worked with are:
@@ -31,7 +31,7 @@ Concerning the back-end, I used some technologies such as:
 - [QuizArt](https://github.com/AlessioLucciola/QuizArt-app-per-beni-culturali) - design of an Android application from scratch (Marvel App)
 ### Side Projects
 - [Lucciola Legnami](https://github.com/AlessioLucciola/lucciolalegnami-project) - Website of a lumber store (Javascript, ReactJS, SCSS, Bootstrap, PHP, MySQL)
-- [Porfolio](https://github.com/AlessioLucciola/portfolio-project) (Javascript, ReactJS, SCSS)
+- [Portfolio](https://github.com/AlessioLucciola/portfolio-project) (Javascript, ReactJS, SCSS)
 ### Others
 - [GeneroCity](https://www.generocity.it/) - a smart parking application developed by the Gamification Lab of the Università degli Studi di Roma “La Sapienza” Computer Science department where I mainly worked on the development of new APIs (Golang, PostgreSQL)
 
