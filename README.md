@@ -25,6 +25,8 @@ Concerning the back-end, I used some technologies such as:
 # :gear: Projects
 ### University Projects
 - [Airbnb Price Prediction](https://github.com/AlessioLucciola/airbnb-price-predictor) (Python, Machine Learning, Spark, Javascript, ReactJS, SCSS, Django, Docker)
+- [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/AlessioLucciola/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
+- [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/AlessioLucciola/voicefork-alexa-skill) (Voice User Interface, Alexa Skill, Typescript)
 - [BiometricBites - Face recognition system for cafeteria access](https://github.com/AlessioLucciola/BiometricBites) (Typescript, ReactJS, SCSS, Python, Django, MySQL, Face Recognition)
 - [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/AlessioLucciola/autonomous-networking) (Python, Reinforcement Learning)
 - [Stroke Prediction Model with Machine Learning](https://github.com/AlessioLucciola/fundamentals-of-data-science) (Python, Machine Learning)
