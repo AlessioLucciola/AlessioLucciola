@@ -28,6 +28,10 @@ Regarding the back-end, I used some technologies such as:
 - Django
 - MySQL / PostgreSQL (along with Prisma)
 
+Regarding AI, I often use these frameworks:
+- PyTorch
+- PySpark
+
 I have also some experience with cloud computing systems like:
 - AWS (ECS, RDS, S3)
 
