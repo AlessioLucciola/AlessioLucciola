@@ -7,20 +7,29 @@ I'm particularly interested in developing <strong>Web Applications</strong> even
 # :muscle: Skills
 Some languages I worked with are:
 - Python
-- Go (Golang)
+- Go (GoLang)
 - Java
 - Javascript / Typescript
 - PHP
-- HTML / CSS
+- HTML
+- CSS (SCSS)
+- SQL
 
-When developing Web Applications, I often make use of:
-- ReactJS
+Concerning the front-end, I have experience with:
+- React
+- React Native
 - Bootstrap
 
-Concerning the back-end, I used some technologies such as:
+Regarding the back-end, I used some technologies such as:
+- Node.js
+- Express
+- Docker
+- MinIO
 - Django
-- MySQL
-- PostgreSQL
+- MySQL / PostgreSQL (along with Prisma)
+
+I have also some experience with cloud computing systems like:
+- AWS (ECS, RDS, S3)
 
 # :gear: Projects
 ### University Projects
