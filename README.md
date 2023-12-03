@@ -43,6 +43,7 @@ I have also some experience with cloud computing systems like:
 - [BiometricBites - Face recognition system for cafeteria access](https://github.com/AlessioLucciola/BiometricBites) (Typescript, ReactJS, SCSS, Python, Django, MySQL, Face Recognition)
 - [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/AlessioLucciola/autonomous-networking) (Python, Reinforcement Learning)
 - [Stroke Prediction Model with Machine Learning](https://github.com/AlessioLucciola/fundamentals-of-data-science) (Python, Machine Learning)
+- [Reachability Games Solver - An algorithm for solving reachability games](https://github.com/AlessioLucciola/games-on-graphs-project) (Python)
 - [MiniBabelNet](https://github.com/AlessioLucciola/babelarity-project) a simplified version of [BabelNet](https://babelnet.org/), a multilingual linguistic resource that aggregates lexicographic and encyclopedic information from heterogeneous resources in different languages into a single semantic network (Java)
 - [QuizArt](https://github.com/AlessioLucciola/QuizArt-app-per-beni-culturali) - design of an Android application from scratch (Marvel App)
 ### Side Projects
