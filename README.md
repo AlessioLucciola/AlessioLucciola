@@ -10,6 +10,7 @@ Some languages I worked with are:
 - Go (GoLang)
 - Java
 - Javascript / Typescript
+- Solidity
 - PHP
 - HTML
 - CSS (SCSS)
@@ -27,6 +28,7 @@ Regarding the back-end, I used some technologies such as:
 - MinIO
 - Django
 - MySQL / PostgreSQL (along with Prisma)
+- Hardhat
 
 Regarding AI, I often use these frameworks:
 - PyTorch
@@ -37,6 +39,8 @@ I have also some experience with cloud computing systems like:
 
 # :gear: Projects
 ### University Projects
+- [Skin Lesion Classification](https://github.com/AlessioLucciola/skin-lesion-classification) (Python, Deep Learning, Pytorch, CNN, ViT, Segmentation, StyleGAN)
+- [SmartSupply: Blockchain Fake Product Identification DApp](https://github.com/AlessioLucciola/blockchain-and-distributed-ledger-project) (Solidity, Typescript, Hardhat, Ethereum, NodeJS, ExpressJS, React, Prisma)
 - [Airbnb Price Prediction](https://github.com/AlessioLucciola/airbnb-price-predictor) (Python, Machine Learning, Spark, Javascript, ReactJS, SCSS, Django, Docker)
 - [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/AlessioLucciola/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
 - [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/AlessioLucciola/voicefork-alexa-skill) (Voice User Interface, Alexa Skill, Typescript)
