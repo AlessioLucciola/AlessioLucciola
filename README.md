@@ -1,8 +1,7 @@
 # :raising_hand_man: About me
 
-I'm <strong>Alessio Lucciola</strong>, a 25-year-old <strong>Software Engineer</strong> from Italy.
-From an early age I’ve always been deeply interested in computing, in fact I've got a <strong>Computer Science Bachelor's Degree</strong> in March 2022 and I'm currently getting a <strong>Master's Degree</strong> in <strong>Sapienza - University Of Rome</strong>.
-I'm particularly interested in developing <strong>Web Applications</strong> even though I'm always experimenting with new technologies and tools in order to come out with cool projects (especially if they concern <strong>AI</strong>).
+I'm <strong>Alessio Lucciola</strong>, a 25 year old <strong>Software Engineer</strong> from Italy.
+Since I was a child I have always had a profound interest in IT, in fact I obtained a <strong>Bachelor's Degree in Computer Science</strong> in March 2022 and I am currently obtaining a <strong>Master's Degree</strong> in <strong>Sapienza - University of Rome</strong>. I am particularly interested in <strong>Web Application</strong> development although I am always experimenting with new technologies and tools to create interesting projects (especially if they concern <strong>AI</strong>).
 
 # :muscle: Skills
 Some languages I worked with are:
