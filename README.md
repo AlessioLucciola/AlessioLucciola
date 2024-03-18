@@ -1,3 +1,26 @@
+# :gear: Projects
+### University Projects
+- Multimodal Youtube Advertisement Sentiment Analysis [Work in Progress] (Python, Deep Leaning, Multimodal Interactions)
+- [Skin Lesion Classification](https://github.com/AlessioLucciola/skin-lesion-classification) (Python, Deep Learning, Pytorch, CNN, ViT, Segmentation, StyleGAN)
+- [SmartSupply: Blockchain Fake Product Identification DApp](https://github.com/AlessioLucciola/blockchain-and-distributed-ledger-project) (Solidity, Typescript, Hardhat, Ethereum, NodeJS, ExpressJS, React, Prisma)
+- [Airbnb Price Prediction](https://github.com/AlessioLucciola/airbnb-price-predictor) (Python, Machine Learning, Spark, Javascript, ReactJS, SCSS, Django, Docker)
+- [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/AlessioLucciola/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
+- [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/AlessioLucciola/voicefork-alexa-skill) (Voice User Interface, Alexa Skill, Typescript)
+- [BiometricBites - Face recognition system for cafeteria access](https://github.com/AlessioLucciola/BiometricBites) (Typescript, ReactJS, SCSS, Python, Django, MySQL, Face Recognition)
+- [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/AlessioLucciola/autonomous-networking) (Python, Reinforcement Learning)
+- [Stroke Prediction Model with Machine Learning](https://github.com/AlessioLucciola/fundamentals-of-data-science) (Python, Machine Learning)
+- [Reachability Games Solver - An algorithm for solving reachability games](https://github.com/AlessioLucciola/games-on-graphs-project) (Python)
+- [MiniBabelNet](https://github.com/AlessioLucciola/babelarity-project) a simplified version of [BabelNet](https://babelnet.org/), a multilingual linguistic resource that aggregates lexicographic and encyclopedic information from heterogeneous resources in different languages into a single semantic network (Java)
+- [QuizArt](https://github.com/AlessioLucciola/QuizArt-app-per-beni-culturali) - design of an Android application from scratch (Marvel App)
+### Side Projects
+- Steam Recommender System [Work in Progress] - A recommender system using deep learning methods (Python, Deep Learning)
+- Explorer's Tales - A simple travel blog [Work in Progress] (Typescript, NextJS, Tailwind, NodeJS, Strapi, MySQL, Docker)
+- [Lucciola Legnami](https://github.com/AlessioLucciola/lucciolalegnami-project) - Website of a lumber store (Javascript, ReactJS, SCSS, Bootstrap, PHP, MySQL)
+- [Portfolio](https://github.com/AlessioLucciola/portfolio-project) (Javascript, ReactJS, SCSS)
+### Others
+- [GeneroCity](https://www.generocity.it/) - A smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of new APIs (Golang, PostgreSQL)
+
+
 # :raising_hand_man: About me
 
 I'm <strong>Alessio Lucciola</strong>, a 25 year old <strong>Software Engineer</strong> from Italy.
@@ -35,25 +58,6 @@ Regarding AI, I often use these frameworks:
 
 I have also some experience with cloud computing systems like:
 - AWS (ECS, RDS, S3)
-
-# :gear: Projects
-### University Projects
-- [Skin Lesion Classification](https://github.com/AlessioLucciola/skin-lesion-classification) (Python, Deep Learning, Pytorch, CNN, ViT, Segmentation, StyleGAN)
-- [SmartSupply: Blockchain Fake Product Identification DApp](https://github.com/AlessioLucciola/blockchain-and-distributed-ledger-project) (Solidity, Typescript, Hardhat, Ethereum, NodeJS, ExpressJS, React, Prisma)
-- [Airbnb Price Prediction](https://github.com/AlessioLucciola/airbnb-price-predictor) (Python, Machine Learning, Spark, Javascript, ReactJS, SCSS, Django, Docker)
-- [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/AlessioLucciola/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
-- [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/AlessioLucciola/voicefork-alexa-skill) (Voice User Interface, Alexa Skill, Typescript)
-- [BiometricBites - Face recognition system for cafeteria access](https://github.com/AlessioLucciola/BiometricBites) (Typescript, ReactJS, SCSS, Python, Django, MySQL, Face Recognition)
-- [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/AlessioLucciola/autonomous-networking) (Python, Reinforcement Learning)
-- [Stroke Prediction Model with Machine Learning](https://github.com/AlessioLucciola/fundamentals-of-data-science) (Python, Machine Learning)
-- [Reachability Games Solver - An algorithm for solving reachability games](https://github.com/AlessioLucciola/games-on-graphs-project) (Python)
-- [MiniBabelNet](https://github.com/AlessioLucciola/babelarity-project) a simplified version of [BabelNet](https://babelnet.org/), a multilingual linguistic resource that aggregates lexicographic and encyclopedic information from heterogeneous resources in different languages into a single semantic network (Java)
-- [QuizArt](https://github.com/AlessioLucciola/QuizArt-app-per-beni-culturali) - design of an Android application from scratch (Marvel App)
-### Side Projects
-- [Lucciola Legnami](https://github.com/AlessioLucciola/lucciolalegnami-project) - Website of a lumber store (Javascript, ReactJS, SCSS, Bootstrap, PHP, MySQL)
-- [Portfolio](https://github.com/AlessioLucciola/portfolio-project) (Javascript, ReactJS, SCSS)
-### Others
-- [GeneroCity](https://www.generocity.it/) - a smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of new APIs (Golang, PostgreSQL)
 
 # :handshake: Contact
 Please, use the form <href>[on this page](https://alessioluc.netlify.app/#contact)</href> to send me a message.
