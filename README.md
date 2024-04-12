@@ -1,6 +1,7 @@
 # :gear: Projects
 ### University Projects
-- Multimodal Youtube Advertisement Sentiment Analysis [Work in Progress] (Python, Deep Leaning, Multimodal Interactions)
+- EEG Personality Estimation [Work in Progress] (Python, Deep Learning)
+- Multimodal Youtube Advertisement Sentiment Analysis [Work in Progress] (Python, Deep Learning, Multimodal Interactions)
 - [Skin Lesion Classification](https://github.com/AlessioLucciola/skin-lesion-classification) (Python, Deep Learning, Pytorch, CNN, ViT, Segmentation, StyleGAN)
 - [SmartSupply: Blockchain Fake Product Identification DApp](https://github.com/AlessioLucciola/blockchain-and-distributed-ledger-project) (Solidity, Typescript, Hardhat, Ethereum, NodeJS, ExpressJS, React, Prisma)
 - [Airbnb Price Prediction](https://github.com/AlessioLucciola/airbnb-price-predictor) (Python, Machine Learning, Spark, Javascript, ReactJS, SCSS, Django, Docker)
@@ -23,13 +24,13 @@
 
 # :raising_hand_man: About me
 
-I'm <strong>Alessio Lucciola</strong>, a 25 year old <strong>Software Engineer</strong> from Italy.
-Since I was a child I have always had a profound interest in IT, in fact I obtained a <strong>Bachelor's Degree in Computer Science</strong> in March 2022 and I am currently obtaining a <strong>Master's Degree</strong> in <strong>Sapienza - University of Rome</strong>. I am particularly interested in <strong>Web Application</strong> development although I am always experimenting with new technologies and tools to create interesting projects (especially if they concern <strong>AI</strong>).
+I'm <strong>Alessio Lucciola</strong>, a 25-year-old <strong>Software Engineer</strong> from Italy.
+Since I was a child I have always had a profound interest in IT, in fact, I obtained a <strong>Bachelor's Degree in Computer Science</strong> in March 2022 and I am currently obtaining a <strong>Master's Degree</strong> in <strong>Sapienza - University of Rome</strong>. I am particularly interested in <strong>Web Application</strong> development although I am always experimenting with new technologies and tools to create interesting projects (especially if they concern <strong>AI</strong>).
 
 # :muscle: Skills
 Some languages I worked with are:
 - Python
-- Go (GoLang)
+- Go (golang)
 - Java
 - Javascript / Typescript
 - Solidity
@@ -38,12 +39,12 @@ Some languages I worked with are:
 - CSS (SCSS)
 - SQL
 
-Concerning the front-end, I have experience with:
+Concerning the front end, I have experience with the following:
 - React
 - React Native
 - Bootstrap
 
-Regarding the back-end, I used some technologies such as:
+Regarding the back end, I used some technologies such as:
 - Node.js
 - Express
 - Docker
@@ -56,7 +57,7 @@ Regarding AI, I often use these frameworks:
 - PyTorch
 - PySpark
 
-I have also some experience with cloud computing systems like:
+I also have some experience with cloud computing systems like:
 - AWS (ECS, RDS, S3)
 
 # :handshake: Contact
