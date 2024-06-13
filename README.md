@@ -15,7 +15,7 @@
 - [QuizArt](https://github.com/AlessioLucciola/QuizArt-app-per-beni-culturali) - design of an Android application from scratch (Marvel App)
 ### Side Projects
 - Steam Recommender System [Work in Progress] - A recommender system using deep learning methods (Python, Deep Learning)
-- Explorer's Tales - A simple travel blog [Work in Progress] (Typescript, NextJS, Tailwind, NodeJS, Strapi, MySQL, Docker)
+- [Explorer's Tales](https://explorerstale.com) - A multilingual travel blog (Typescript, NextJS, Tailwind, NodeJS, Strapi, PostgreSQL, GraphQL, Docker)
 - [Lucciola Legnami](https://github.com/AlessioLucciola/lucciolalegnami-project) - Website of a lumber store (Javascript, ReactJS, SCSS, Bootstrap, PHP, MySQL)
 - [Portfolio](https://github.com/AlessioLucciola/portfolio-project) (Javascript, ReactJS, SCSS)
 ### Others
@@ -67,20 +67,3 @@ Otherwise, you can contact me on <href>[Telegram](https://t.me/alessiolucciola)<
 
 # :link: Links
 <href>[LinkedIn](https://www.linkedin.com/in/alessio-lucciola/)</href> - <href>[Portfolio](https://alessioluc.netlify.app/)</href>
-
-# :bar_chart: Some Stats
-[![Alessio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioLucciola)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**AlessioLucciola/AlessioLucciola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
