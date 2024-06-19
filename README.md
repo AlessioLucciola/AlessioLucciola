@@ -19,7 +19,7 @@
 - [Lucciola Legnami](https://github.com/AlessioLucciola/lucciolalegnami-project) - Website of a lumber store `Javascript`, `ReactJS`, `SCSS`, `Bootstrap`, `PHP`, `MySQL`
 - [Portfolio](https://github.com/AlessioLucciola/portfolio-project) `Javascript`, `ReactJS`, `SCSS`
 ### Others
-- [GeneroCity](https://www.generocity.it/) - A smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of new APIs (Golang, PostgreSQL)
+- [GeneroCity](https://www.generocity.it/) - A smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of new APIs `Go`, `PostgreSQL`
 
 
 # :raising_hand_man: About me
@@ -28,38 +28,11 @@ I'm <strong>Alessio Lucciola</strong>, a 25-year-old <strong>Software Engineer</
 Since I was a child I have always had a profound interest in IT, in fact, I obtained a <strong>Bachelor's Degree in Computer Science</strong> in March 2022 and I am currently obtaining a <strong>Master's Degree</strong> in <strong>Sapienza - University of Rome</strong>. I am particularly interested in <strong>Web Application</strong> development although I am always experimenting with new technologies and tools to create interesting projects (especially if they concern <strong>AI</strong>).
 
 # :muscle: Skills
-Some languages I worked with are:
-- Python
-- Go (golang)
-- Java
-- Javascript / Typescript
-- Solidity
-- PHP
-- HTML
-- SQL
-
-Concerning the front end, I have experience with the following:
-- React
-- React Native
-- Bootstrap
-- CSS (SCSS)
-- Tailwind
-
-Regarding the back end, I used some technologies such as:
-- Node.js
-- Express
-- Docker
-- MinIO
-- Django
-- MySQL / PostgreSQL (along with Prisma)
-- Hardhat
-
-Regarding AI, I often use these frameworks:
-- PyTorch
-- PySpark
-
-I also have some experience with cloud computing systems like:
-- AWS (ECS, RDS, S3)
+- Some languages I worked with are: `Python`, `Go`, `Java`, `Javascript`, `Typescript`, `Solidity`, `PHP`, `HTML`, `SQL`
+- Concerning the front end, I have experience with the following: `React`, `React Native`, `Bootstrap`, `CSS (SCSS)`, `Tailwind`
+- Regarding the back end, I used some technologies such as: `NodeJS`, `Express`, `Docker`, `MinIO`, `Django`, `MySQL`, `PostgreSQL`, `GraphQL`, `Prisma`, `Strapi`, `Hardhat`
+- Regarding AI, I often use these frameworks: `PyTorch`, `PySpark`
+- I also have some experience with cloud computing systems and tools like: `AWS (ECS, RDS, S3)`, `Terraform`, `Digital Ocean`, `Vercel`, `Cloudfare`
 
 # :handshake: Contact
 Please, use the form <href>[on this page](https://alessioluc.netlify.app/#contact)</href> to send me a message.
