@@ -1,6 +1,6 @@
 # :gear: Projects
 ### University Projects
-- EEG Personality Estimation [Work in Progress] (Python, Deep Learning)
+- [EEG Personality Estimation](https://github.com/AlessioLucciola/eeg-personality-estimation) `Python`, `Deep Learning`, `Transformer`
 - [Multimodal Advertisement Sentiment Analysis](https://github.com/AlessioLucciola/multimodal-advertisement-sentiment-analysis) `Python`, `Deep Learning`, `Multimodal Interaction`
 - [Skin Lesion Classification](https://github.com/AlessioLucciola/skin-lesion-classification) `Python`, `Deep Learning`, `Pytorch`, `CNN`, `ViT`, `Segmentation`, `StyleGAN`
 - [SmartSupply: Blockchain Fake Product Identification DApp](https://github.com/AlessioLucciola/blockchain-and-distributed-ledger-project) `Solidity`, `Typescript`, `Hardhat`, `Ethereum`, `NodeJS`, `ExpressJS`, `React`, `Prisma`
