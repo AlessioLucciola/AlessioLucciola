@@ -35,9 +35,9 @@ Since I was a child I have always had a profound interest in IT, in fact, I obta
 - I also have some experience with cloud computing systems and tools like: `AWS (ECS, RDS, S3)`, `Terraform`, `Digital Ocean`, `Vercel`, `Cloudfare`
 
 # :handshake: Contact
-Please, use the form <href>[on this page](https://alessioluc.netlify.app/#contact)</href> to send me a message.
+Please, use the form <href>[on this page](https://alessiolucciola.netlify.app/#contact)</href> to send me a message.
 
 Otherwise, you can contact me on <href>[Telegram](https://t.me/alessiolucciola)</href>.
 
 # :link: Links
-<href>[LinkedIn](https://www.linkedin.com/in/alessio-lucciola/)</href> - <href>[Portfolio](https://alessioluc.netlify.app/)</href>
+<href>[LinkedIn](https://www.linkedin.com/in/alessio-lucciola/)</href> - <href>[Portfolio](https://alessiolucciola.netlify.app/)</href>
