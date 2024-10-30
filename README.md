@@ -24,7 +24,7 @@
 
 # :raising_hand_man: About me
 
-I'm <strong>Alessio Lucciola</strong>, a 25-year-old <strong>Software Engineer</strong> from Italy.
+I'm <strong>Alessio Lucciola</strong>, a 26-year-old <strong>Software Engineer</strong> from Italy.
 Since I was a child I have always had a profound interest in IT, in fact, I obtained a <strong>Bachelor's Degree in Computer Science</strong> in March 2022 and I am currently obtaining a <strong>Master's Degree</strong> in <strong>Sapienza - University of Rome</strong>. I am particularly interested in <strong>Web Application</strong> development although I am always experimenting with new technologies and tools to create interesting projects (especially if they concern <strong>AI</strong>).
 
 # :muscle: Skills
